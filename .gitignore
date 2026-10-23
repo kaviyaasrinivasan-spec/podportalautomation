@@ -1,0 +1,14 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Backups, logs and runtime output
+main.py1
+*.log
+db_check.txt
+*.png

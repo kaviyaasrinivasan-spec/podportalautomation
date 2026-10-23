@@ -1,0 +1,4 @@
+selenium
+psycopg2-binary
+webdriver-manager
+python-dotenv
